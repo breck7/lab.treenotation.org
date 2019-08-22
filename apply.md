@@ -39,17 +39,17 @@ No. If you have a software background and help improve Tree Notation tools, you 
 
 No. To avoid wasting people's time due to bad organization, we want to grow slowly, adding the right people at the right time, and scale as our organizational capabilities improve.
 
-### Can I use ideas or code from the Tree Notation lab at my company, startup or private projects?
+### Can I use ideas or code from the Tree Notation Lab at my company, at my startup or in my private projects?
 
-Of course. Most things we do are open and made public domain (currently under the MIT license). But you are free to use the ideas from the lab in any way you wish. Zaldrizes buzdari iksos daor.
+Of course. Most things we do are open and made public domain (currently under the MIT license). But, like everyone else, you are free to use the outputs of the lab however you wish. Zaldrizes buzdari iksos daor.
 
 ### What would I be doing?
 
 Besides participating in the discussions you would be doing what you are best at, which might be any of the following:
 
-1. Researching languages and encodings and brainstorming the theoretical aspects, trying to suss out any flaws and mistakes in our thinking and making sure we are building the simplest and best things possible.
-2. Implementing new Tree libraries in your favorite language(s).
-3. Helping build meta test suites and documentation to be used by Tree Notation library authors.
+1. Researching languages and encodings and brainstorming the theoretical aspects, trying to suss out any flaws and mistakes in our thinking and making sure we are building the simplest and best things possible. You'd help us improve our thinking and solve questions like whether we should be using tabs instead of spaces; whether we should have references directly in the base notation; etc.
+2. Implementing new Tree Notation base libraries in your favorite language(s).
+3. Helping build meta test suites and documentation to be used by Tree Notation base library authors.
 4. Designing and building new Tree Languages.
 5. Designing and building new applications that use Tree Languages.
 6. Growing the community through blog posts, reddit modding, Twitter, conferences, writing papers, meetups, etc.
