@@ -58,3 +58,7 @@ Besides participating in the "coffee club" discussions, you would be doing what 
 ### When is the first meeting?
 
 Slated for Q4 2019.
+
+### How is the Tree Notation Lab funded?
+
+The Tree Notation Lab is funded entirely by anonymous gifts. You can donate bitcoin to the Tree Notation Lab at this address: 36DMShMSDUp19FnshHZDnoVCGrAYCrowfN
