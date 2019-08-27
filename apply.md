@@ -23,6 +23,10 @@ One "coffee club" meeting per month. You can attend remotely.
 
 No. This is a volunteer lab.
 
+### How much experience do I need?
+
+Accepted applicants will likely have 10-50+ years of experience, though every application will be considered. If you have less than 10 years of experience, consider applying for the (Tree Notation Lab Internship Program)[https://github.com/treenotation/lab.treenotation.org/blob/master/applyForInternshipProgram.md].
+
 ### Do I need to be in Hawaii?
 
 No. We are based in Hawaii but this is a distributed research lab.
