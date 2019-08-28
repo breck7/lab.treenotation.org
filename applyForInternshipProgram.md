@@ -11,7 +11,7 @@ If you are interested in participating, send an email to [intern@treenotation.or
 
 1. What skillset are you looking to develop?
 2. What do you hope to get out of being a member of the Tree Notation Lab Internship Program?
-3. Provide your Gmail address, GitHub username and Reddit username. Your accounts can be brand new, we just want to make sure you can get stuff done and learn how to use the tools the rest of the team uses.
+3. Provide your Gmail address, GitHub username, LinkedIn url, Twitter username, homepage and/or blog url and Reddit username. Your accounts can be brand new, we just want to make sure you can get stuff done and learn how to use the tools the rest of the team uses.
 
 ## FAQ
 
