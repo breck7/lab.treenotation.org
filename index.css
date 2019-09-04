@@ -11,6 +11,9 @@ body {
 *:after {
   box-sizing: inherit;
 }
+body h1 {
+  font-weight: 300;
+}
 body {
   font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 }
