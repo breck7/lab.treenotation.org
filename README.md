@@ -1,4 +1,1 @@
-# lab.treenotation.org
-Website for Tree Notation Lab
-
-Coming soon.
+This repo contains the source code for <a href="http://lab.treenotation.org">http://lab.treenotation.org</a>
